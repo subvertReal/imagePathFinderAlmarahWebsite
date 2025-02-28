@@ -3,5 +3,9 @@
     "express": "^4.21.2",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node pathFinder.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
