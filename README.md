@@ -1,2 +1,2 @@
 # imagePathFinderAlmarahWebsite
-Node.js server that locates information regarding images for the Almarah Classic Fit website and delivers information via express
+Node.js server that locates information regarding images for the Almarah Classic Fit website and delivers the images via express in the format of base64. It also has an api for editing images on the server itself through an admin panel
